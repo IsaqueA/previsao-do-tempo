@@ -20,4 +20,4 @@ Uma página de previsão do tempo, construída utilizando HTML, CSS e JavaScript
 - **HTML** - Estrutura da página web.
 - **CSS** - Estilos para uma experiência de usuário agradável.
 - **JavaScript** - Interação e chamadas à API para obter dados de previsão do tempo.
-- **WeatherAPI** - API utilizada para obter informações de previsão do tempo. [Link para a API](https://www.weatherapi.com/){:target="_blank"}
+- **WeatherAPI** - API utilizada para obter informações de previsão do tempo. <a href="https://www.weatherapi.com/" target="_blank">Link para a API</a>
